@@ -1,7 +1,11 @@
-AbNAME: Golla Nandini
+NAME: Golla Nandini
+
 COMPANY:CODETECH IT SOLUTIONS
+
 ID:CTO8EXD
+
 DOMAIN:python programming
+
 BATCH DURATION: 17december to 17january 2025
 
 MENTOR:santhosh kumar
